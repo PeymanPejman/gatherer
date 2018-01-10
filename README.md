@@ -1,4 +1,4 @@
-# Hunter
+# Gatherer
 Install docker
 
 Clone github repo 
